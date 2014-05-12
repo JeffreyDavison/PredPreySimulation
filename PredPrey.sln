@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PredPrey", "PredPrey.vcxproj", "{06CD4350-AA2B-4EE5-9F2D-3695070569CD}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://w0215698.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PredPrey.vcxproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CD4350-AA2B-4EE5-9F2D-3695070569CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06CD4350-AA2B-4EE5-9F2D-3695070569CD}.Debug|Win32.Build.0 = Debug|Win32
+		{06CD4350-AA2B-4EE5-9F2D-3695070569CD}.Release|Win32.ActiveCfg = Release|Win32
+		{06CD4350-AA2B-4EE5-9F2D-3695070569CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
